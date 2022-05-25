@@ -7,3 +7,4 @@ print(b,b.shape)
 b=a[:,np.newaxis]#colume axis
 print(b)
 ```
+>this is my first test code for git and github
